@@ -1,2 +1,2 @@
-Hello Git!
+Hello from main!
 I'm learning Git!
